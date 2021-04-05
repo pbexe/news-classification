@@ -10,6 +10,8 @@ scipy = "*"
 spacy = "*"
 ipykernel = "*"
 nltk = "*"
+tqdm = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
