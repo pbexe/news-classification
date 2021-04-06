@@ -12,6 +12,7 @@ ipykernel = "*"
 nltk = "*"
 tqdm = "*"
 ipywidgets = "*"
+pandas = "*"
 
 [dev-packages]
 
