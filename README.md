@@ -25,7 +25,7 @@ $ tar -xf src/bbc.tar.gz --directory src
 ```
 ### Install Python packages
 
-Install using either Pipenv **OR** Pip
+Install using either Pipenv **or** Pip
 
 #### Pipenv
 ```bash
@@ -50,4 +50,4 @@ Navigate to `src/news-classifier.ipynb` in the new browser window.
 To re-run the cells, click `Cell/Run All`
 
 ## References
-*D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering", Proc. ICML 2006.*
+[*D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering", Proc. ICML 2006.*](https://dl.acm.org/doi/10.1145/1143844.1143892)
