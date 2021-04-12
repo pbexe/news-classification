@@ -18,14 +18,22 @@ $ git clone https://github.com/pbexe/news-classification.git
 $ cd news-classification
 ```
 
-### Pipenv
+### Unpack data
+```bash
+$ tar -xf src/bbc.tar.gz --directory src
+```
+### Install Python packages
+
+Install using either Pipenv **OR** Pip
+
+#### Pipenv
 ```bash
 $ pipenv install
 $ pipenv shell
 $ python -m spacy download en_core_web_sm
 ```
 
-### Pip
+#### Pip
 ```bash
 $ pip install -r requirements.txt
 $ python -m spacy download en_core_web_sm
