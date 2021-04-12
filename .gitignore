@@ -130,3 +130,5 @@ dmypy.json
 
 /src/bbc/
 /src/real-state/
+
+.vscode/
