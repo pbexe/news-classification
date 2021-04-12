@@ -9,7 +9,8 @@ Requirements:
 
 - Python 3.9
 - Pipenv (Optional)
-- Git
+- git
+- tar
 
 ### Clone the repo
 
